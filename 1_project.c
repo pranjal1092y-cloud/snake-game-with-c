@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>                   //push it to gitt
 #include<windows.h>
 #include<time.h>
 #include<stdlib.h>
@@ -14,8 +14,8 @@
 int raty;
 //  ratx= rand() % 90 + 1;
 //  raty= rand() % 30 + 1 ;
-ratx= 10;
  raty= 10;
+ratx= 10;
     void setup(){
       system("cls");
       
